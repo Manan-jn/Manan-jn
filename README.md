@@ -1,9 +1,8 @@
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=Manan-jn&color=green)
 <!--
 **Manan-jn/Manan-jn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![](https://komarev.com/ghpvc/?username=Manan-jn&color=green)
-
+X
 
 Here are some ideas to get you started:
 
