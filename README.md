@@ -1,6 +1,12 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=Manan-jn&color=green)
 ![Manan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manan-jn&theme=dark&show_icons=true)
+<br>
+![](https://komarev.com/ghpvc/?username=Manan-jn&color=green)
+<p align='center'>
+<a href="https://twitter.com/Manan_jain27"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/manan_278/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/manan-jain-65aa561b7/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
 
 <!--
 **Manan-jn/Manan-jn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
