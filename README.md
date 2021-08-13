@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=Manan-jn&color=green)
+![Manan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manan-jn&theme=dark&show_icons=true)
+
 <!--
 **Manan-jn/Manan-jn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 X
