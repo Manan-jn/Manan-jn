@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/72336990/140030153-e51692dc-9491-44c9-ba96-3ca53f39cfab.gif" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/72336990/140030153-e51692dc-9491-44c9-ba96-3ca53f39cfab.gif" height="300"/>
 
 - 🌱 I’m currently learning **Web Development** 
 - 👯 I’m looking to collaborate on **Web Dev and C++ projects**
