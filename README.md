@@ -4,7 +4,6 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: 201220026@nitdelhi.ac.in 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: The first webcam was utilized by Cambridge University. They used the webcam to watch a coffee maker, eliminating the need to make trips to an empty pot.😜
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/72336990/140030153-e51692dc-9491-44c9-ba96-3ca53f39cfab.gif)
 
