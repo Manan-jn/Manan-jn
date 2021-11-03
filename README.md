@@ -1,12 +1,14 @@
 ### Hi there 👋
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/72336990/140030153-e51692dc-9491-44c9-ba96-3ca53f39cfab.gif" />
+
 - 🌱 I’m currently learning **Web Development** 
 - 👯 I’m looking to collaborate on **Web Dev and C++ projects**
 - 💬 Ask me about anything
 - 📫 How to reach me: 201220026@nitdelhi.ac.in 
 - 😄 Pronouns: He/Him
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/72336990/140030153-e51692dc-9491-44c9-ba96-3ca53f39cfab.gif)
-
+<!-- ![ezgif com-gif-maker](https://user-images.githubusercontent.com/72336990/140030153-e51692dc-9491-44c9-ba96-3ca53f39cfab.gif)
+ -->
 ![Manan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manan-jn&theme=dark&show_icons=true)
 <br>
 ![](https://komarev.com/ghpvc/?username=Manan-jn&color=green)
