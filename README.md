@@ -9,9 +9,9 @@
 
 <!-- ![ezgif com-gif-maker](https://user-images.githubusercontent.com/72336990/140030153-e51692dc-9491-44c9-ba96-3ca53f39cfab.gif)
  -->
-![Manan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manan-jn&theme=dark&show_icons=true)
+<!-- ![Manan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manan-jn&theme=dark&show_icons=true) -->
 <br>
-![](https://komarev.com/ghpvc/?username=Manan-jn&color=green)
+<!-- ![](https://komarev.com/ghpvc/?username=Manan-jn&color=green) -->
 <p align='center'>
 <a href="https://twitter.com/Manan_jain27"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/manan_278/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
